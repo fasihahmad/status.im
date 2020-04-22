@@ -3257,6 +3257,14 @@ img.qr-code{
     }
 }
 
+@media (min-width: 991px) {
+
+    .teaser-padding-right {
+        padding-right: 30px;
+    }
+
+}
+
 @media (max-width: 1499px){
     .container {
         max-width: 1170px;
